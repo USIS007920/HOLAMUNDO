@@ -1,0 +1,12 @@
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\bin\Debug\TIEMPO.exe.config
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\bin\Debug\TIEMPO.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\bin\Debug\TIEMPO.pdb
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\bin\Debug\TIEMPO.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.vbprojAssemblyReference.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.Form1.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.Resources.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.vbproj.GenerateResource.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.vbproj.CoreCompileInputs.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\TIEMPO\TIEMPO\obj\Debug\TIEMPO.pdb
