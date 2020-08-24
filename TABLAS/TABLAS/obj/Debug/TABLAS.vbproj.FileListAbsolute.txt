@@ -1,0 +1,12 @@
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\bin\Debug\TABLAS.exe.config
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\bin\Debug\TABLAS.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\bin\Debug\TABLAS.pdb
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\bin\Debug\TABLAS.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.vbprojAssemblyReference.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.Form1.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.Resources.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.vbproj.GenerateResource.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.vbproj.CoreCompileInputs.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\TABLAS\TABLAS\obj\Debug\TABLAS.pdb
