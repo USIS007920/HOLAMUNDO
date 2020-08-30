@@ -35,7 +35,7 @@ Partial Class Form1
         '
         'btnMediaAritmetica
         '
-        Me.btnMediaAritmetica.Location = New System.Drawing.Point(340, 316)
+        Me.btnMediaAritmetica.Location = New System.Drawing.Point(340, 304)
         Me.btnMediaAritmetica.Name = "btnMediaAritmetica"
         Me.btnMediaAritmetica.Size = New System.Drawing.Size(110, 55)
         Me.btnMediaAritmetica.TabIndex = 0
