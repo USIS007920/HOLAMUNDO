@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Conversor de Numeros Decimales a Romanos", "Conversor de Numeros Decimales a Romanos\Conversor de Numeros Decimales a Romanos.vbproj", "{88CE841F-5E56-4792-88A2-A8839EC36B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CE841F-5E56-4792-88A2-A8839EC36B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE841F-5E56-4792-88A2-A8839EC36B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE841F-5E56-4792-88A2-A8839EC36B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE841F-5E56-4792-88A2-A8839EC36B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C02CF29B-D41B-40B5-AC6C-581ADD899AEC}
+	EndGlobalSection
+EndGlobal
