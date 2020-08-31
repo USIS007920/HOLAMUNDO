@@ -1,0 +1,5 @@
+C:\Users\ferqu\source\repos\HOLAMUNDO\Matrices y Poo\Matrices y Poo\obj\Debug\Matrices y Poo.vbprojAssemblyReference.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\Matrices y Poo\Matrices y Poo\obj\Debug\Matrices_y_Poo.Form1.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\Matrices y Poo\Matrices y Poo\obj\Debug\Matrices_y_Poo.Resources.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\Matrices y Poo\Matrices y Poo\obj\Debug\Matrices y Poo.vbproj.GenerateResource.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\Matrices y Poo\Matrices y Poo\obj\Debug\Matrices y Poo.vbproj.CoreCompileInputs.cache

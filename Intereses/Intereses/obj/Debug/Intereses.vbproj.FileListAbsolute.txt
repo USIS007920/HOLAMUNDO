@@ -1,0 +1,12 @@
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\bin\Debug\Intereses.exe.config
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\bin\Debug\Intereses.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\bin\Debug\Intereses.pdb
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\bin\Debug\Intereses.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.vbprojAssemblyReference.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.Form1.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.Resources.resources
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.vbproj.GenerateResource.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.vbproj.CoreCompileInputs.cache
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.exe
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.xml
+C:\Users\ferqu\source\repos\HOLAMUNDO\Intereses\Intereses\obj\Debug\Intereses.pdb
